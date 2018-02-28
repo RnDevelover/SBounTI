@@ -1,0 +1,44 @@
+this evening	ThisEvening
+this morning	ThisMorning
+this afternoon	ThisAfternoon
+last year	LastYear
+last week	LastWeek
+last month	LastMonth
+last night	LastNight
+asap	Now
+tdy	Today
+now	Now
+tomorrow	Tomorrow
+tmrw	Tomorrow
+tmrrw	Tomorrow
+yesterday	Yesterday
+ystrdy	Yesterday
+sunday	Sunday
+monday	Monday
+tuesday	Tuesday
+wednesday	Wednesday
+thursday	Thursday
+friday	Friday
+saturday	Saturday
+today	Today
+tonight	Tonight
+january	January
+february	February
+march	March
+april	April
+may	May
+june	June
+july	July
+august	August
+september	September
+october	October
+november	November
+december	December
+spring	Spring
+summer	Summer
+winter	Winter
+fall	Fall
+evening	Evening
+morning	Morning
+night	Night
+afternoon	Afternoon
