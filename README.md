@@ -18,7 +18,7 @@ To install and run S-BounTI prerequisites must be satisfied. The instructions im
     *  Issue "git clone https://github.com/RnDevelover/SBounTI.git", and cd to SBounTI.
     *  Edit cfg/config.php according to need (such as base urls of resources that will be produced and the TagMe API key)
 *  Obtain a microblog post dataset about 5 thousand posts, either in a file format of short texts in each line
-or in a raw file retrieved from Twitter streaming API
+or in a raw file retrieved from Twitter streaming API. For example, you can use [phirehose](https://github.com/fennb/phirehose).
 *  Issue command:
     *  ./sbounti <filename> "<dataset_name>" "<start_date>" "<end_date>"
   for the text file
